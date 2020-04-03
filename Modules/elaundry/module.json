@@ -1,0 +1,13 @@
+{
+    "name": "Elaundry",
+    "alias": "elaundry",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Elaundry\\Providers\\ElaundryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
